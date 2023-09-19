@@ -253,6 +253,7 @@ body {
 }
 
 .content.actived {
+    display: none;
     bottom: 120px;
     width: 300px;
     height: fit-content;
@@ -391,6 +392,7 @@ body {
     }
 
     .content.actived {
+        display:none;
         bottom: 100px;
     }
 }
